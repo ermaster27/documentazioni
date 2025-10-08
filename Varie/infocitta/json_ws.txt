@@ -1,0 +1,24 @@
+
+json server:
+{
+  "comando": "Sample String",
+  "idTotem": integer,
+  "idGruppo": integer,
+  "contenuto" : {
+				  "idContenuto": integer,
+				  "fileName": "Sample String",
+				  "formato": "Sample String",
+				  "posizione": integer,
+				  "dataStart": "Sample String",
+				  "dataEnd": "Sample String",
+				  "durataSecondi": integer
+				}
+}
+
+json client:
+{
+  "comando": "Sample String",
+  "idTotem": integer,
+  "macAddress": "Sample String",
+  "log": "Sample String"
+}
